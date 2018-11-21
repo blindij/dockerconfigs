@@ -1,3 +1,7 @@
+# vim .swp file
+*.swo
+*.swp
+
 #
 .DS_Store
 .ipynb_checkpoints
